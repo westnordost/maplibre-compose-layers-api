@@ -89,7 +89,7 @@ with some complet-ish implementation rather than a mockup.
   value or an expression and Kotlin has no union types, all constant style properties would have to be 
   specified by wrapping them in a  e.g. `color = Constant(Color.Red)`.
   A solution explored in the example above is to use factory functions that have for each property
-  actually two parameters: One that accepts a constant (e.g. `width`), the other `e.g. `widthExpr`), an expression. But hm.
+  actually two parameters: One that accepts a constant (e.g. `width`), the other e.g. `widthExpr`), an expression. But hm.
 
 ## Compared with MapLibreSwiftUI
 

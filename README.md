@@ -95,7 +95,7 @@ with some complet-ish implementation rather than a mockup.
 
 ### Pros
 
-- **Can share text styles, line styles etc. between layers and modify them for different layers**
+- **Can share text styles, line styles etc. between layers and copy & modify them for different layers**
 
 - Easier to work with in an IDE because the factory function signature discloses which are the 
   defaults for properties not specified and also it is not possible to add them twice.
